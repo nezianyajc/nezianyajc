@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josh Nezianya
+- 👋 Hi, I’m Jamal Nezianya
 - 👀 I’m interested in making apps.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
